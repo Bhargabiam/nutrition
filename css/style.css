@@ -521,3 +521,8 @@ body.active {
   border: none !important;
   background: none !important;
 }
+
+/* INSTA */
+.insta{
+  background-color: var(--background-secondary);
+}
